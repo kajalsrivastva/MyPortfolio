@@ -1,0 +1,8 @@
+<Solution>
+  <Project Path="MyPortfolio.Core/MyPortfolio.Core.csproj" />
+  <Project Path="MyPortfolio.DataModel/MyPortfolio.DataModel.csproj" />
+  <Project Path="MyPortfolio.Repositories/MyPortfolio.Repositories.csproj" />
+  <Project Path="MyPortfolio.Services/MyPortfolio.Services.csproj" />
+  <Project Path="MyPortfolio.ViewModel/MyPortfolio.ViewModel.csproj" />
+  <Project Path="MyPortfolio.WebApi/MyPortfolio.WebApi.csproj" />
+</Solution>

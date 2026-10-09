@@ -1,0 +1,13 @@
+D:\Kajal\MyPortfolio\MyPortfolioBE\MyPortfolio.Core\bin\Debug\net9.0\MyPortfolio.Core.deps.json
+D:\Kajal\MyPortfolio\MyPortfolioBE\MyPortfolio.Core\bin\Debug\net9.0\MyPortfolio.Core.dll
+D:\Kajal\MyPortfolio\MyPortfolioBE\MyPortfolio.Core\bin\Debug\net9.0\MyPortfolio.Core.pdb
+D:\Kajal\MyPortfolio\MyPortfolioBE\MyPortfolio.Core\obj\Debug\net9.0\MyPortfolio.Core.csproj.AssemblyReference.cache
+D:\Kajal\MyPortfolio\MyPortfolioBE\MyPortfolio.Core\obj\Debug\net9.0\MyPortfolio.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kajal\MyPortfolio\MyPortfolioBE\MyPortfolio.Core\obj\Debug\net9.0\MyPortfolio.Core.AssemblyInfoInputs.cache
+D:\Kajal\MyPortfolio\MyPortfolioBE\MyPortfolio.Core\obj\Debug\net9.0\MyPortfolio.Core.AssemblyInfo.cs
+D:\Kajal\MyPortfolio\MyPortfolioBE\MyPortfolio.Core\obj\Debug\net9.0\MyPortfolio.Core.csproj.CoreCompileInputs.cache
+D:\Kajal\MyPortfolio\MyPortfolioBE\MyPortfolio.Core\obj\Debug\net9.0\MyPortfolio.Core.sourcelink.json
+D:\Kajal\MyPortfolio\MyPortfolioBE\MyPortfolio.Core\obj\Debug\net9.0\MyPortfolio.Core.dll
+D:\Kajal\MyPortfolio\MyPortfolioBE\MyPortfolio.Core\obj\Debug\net9.0\refint\MyPortfolio.Core.dll
+D:\Kajal\MyPortfolio\MyPortfolioBE\MyPortfolio.Core\obj\Debug\net9.0\MyPortfolio.Core.pdb
+D:\Kajal\MyPortfolio\MyPortfolioBE\MyPortfolio.Core\obj\Debug\net9.0\ref\MyPortfolio.Core.dll

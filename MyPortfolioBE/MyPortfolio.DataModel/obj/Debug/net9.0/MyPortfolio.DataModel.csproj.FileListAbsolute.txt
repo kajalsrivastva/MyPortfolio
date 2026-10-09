@@ -1,0 +1,16 @@
+D:\Kajal\MyPortfolio\MyPortfolioBE\MyPortfolio.DataModel\bin\Debug\net9.0\MyPortfolio.DataModel.deps.json
+D:\Kajal\MyPortfolio\MyPortfolioBE\MyPortfolio.DataModel\bin\Debug\net9.0\MyPortfolio.DataModel.dll
+D:\Kajal\MyPortfolio\MyPortfolioBE\MyPortfolio.DataModel\bin\Debug\net9.0\MyPortfolio.DataModel.pdb
+D:\Kajal\MyPortfolio\MyPortfolioBE\MyPortfolio.DataModel\bin\Debug\net9.0\MyPortfolio.Core.dll
+D:\Kajal\MyPortfolio\MyPortfolioBE\MyPortfolio.DataModel\bin\Debug\net9.0\MyPortfolio.Core.pdb
+D:\Kajal\MyPortfolio\MyPortfolioBE\MyPortfolio.DataModel\obj\Debug\net9.0\MyPortfolio.DataModel.csproj.AssemblyReference.cache
+D:\Kajal\MyPortfolio\MyPortfolioBE\MyPortfolio.DataModel\obj\Debug\net9.0\MyPortfolio.DataModel.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kajal\MyPortfolio\MyPortfolioBE\MyPortfolio.DataModel\obj\Debug\net9.0\MyPortfolio.DataModel.AssemblyInfoInputs.cache
+D:\Kajal\MyPortfolio\MyPortfolioBE\MyPortfolio.DataModel\obj\Debug\net9.0\MyPortfolio.DataModel.AssemblyInfo.cs
+D:\Kajal\MyPortfolio\MyPortfolioBE\MyPortfolio.DataModel\obj\Debug\net9.0\MyPortfolio.DataModel.csproj.CoreCompileInputs.cache
+D:\Kajal\MyPortfolio\MyPortfolioBE\MyPortfolio.DataModel\obj\Debug\net9.0\MyPortfolio.DataModel.sourcelink.json
+D:\Kajal\MyPortfolio\MyPortfolioBE\MyPortfolio.DataModel\obj\Debug\net9.0\MyPortfo.465BBCD7.Up2Date
+D:\Kajal\MyPortfolio\MyPortfolioBE\MyPortfolio.DataModel\obj\Debug\net9.0\MyPortfolio.DataModel.dll
+D:\Kajal\MyPortfolio\MyPortfolioBE\MyPortfolio.DataModel\obj\Debug\net9.0\refint\MyPortfolio.DataModel.dll
+D:\Kajal\MyPortfolio\MyPortfolioBE\MyPortfolio.DataModel\obj\Debug\net9.0\MyPortfolio.DataModel.pdb
+D:\Kajal\MyPortfolio\MyPortfolioBE\MyPortfolio.DataModel\obj\Debug\net9.0\ref\MyPortfolio.DataModel.dll
