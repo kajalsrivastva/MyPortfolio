@@ -27,8 +27,9 @@ builder.Services.AddCors(options =>
     options.AddPolicy("AllowFrontend", policy =>
     {
         policy.WithOrigins(
+            "http://localhost:5173",
             "http://localhost:3000",
-            "http://localhost:3001")// Replace with your frontend URL
+            "http://localhost:3001")
               .AllowAnyHeader()
               .AllowAnyMethod()
               .AllowCredentials();
@@ -137,6 +138,8 @@ builder.Services.AddAuthentication(options =>
 #region DI
 builder.Services.AddTransient<IAccountsServices,AccountsServices>();
 builder.Services.AddTransient<IAccountsRepository,AccountsRepository>();
+builder.Services.AddScoped<IPortfolioRepository, PortfolioRepository>();
+builder.Services.AddScoped<IPortfolioService, PortfolioService>();
 #endregion
 
 var app = builder.Build();
