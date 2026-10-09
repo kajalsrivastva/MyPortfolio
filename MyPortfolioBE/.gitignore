@@ -1,0 +1,19 @@
+```gitignore
+# .NET build files
+**/bin/
+**/obj/
+**/.vs/
+
+# User-specific files
+*.user
+*.rsuser
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Frontend dependencies
+**/node_modules/
+
+# # Secrets and local configuration
+# **/appsettings.Development.json
+# ```
